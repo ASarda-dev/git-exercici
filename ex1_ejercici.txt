@@ -5,3 +5,6 @@ Crear una nova carpeta al teu PC. (copia_proyecto_git)
 Clonar el repositori a aquesta carpeta del teu ordinador (git clone “url/to/repository”).
 Crear un fitxer de text (.txt) en aquesta carpeta.
 Fer un commit i push per a pujar els canvis al repositori remot de GitHub.
+
+Torna a la branca “master”.
+Fes un altre canvi al document i fer commit i push.
