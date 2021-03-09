@@ -1,0 +1,7 @@
+El teu primer repositori Git (linea comandes):
+
+Crear un nou repositori al teu GitHub
+Crear una nova carpeta al teu PC. (copia_proyecto_git)
+Clonar el repositori a aquesta carpeta del teu ordinador (git clone “url/to/repository”).
+Crear un fitxer de text (.txt) en aquesta carpeta.
+Fer un commit i push per a pujar els canvis al repositori remot de GitHub.
